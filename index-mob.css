@@ -1,0 +1,14 @@
+body{
+    background-color:rgb(246, 187, 220) ;
+
+}
+.imgandcont{
+    
+    width: 86%;
+    /* display: inline-block; */
+    margin: 100px auto 100px auto;
+    
+    border-radius: 12px;
+    text-align: center;
+    background-color: aliceblue;
+}

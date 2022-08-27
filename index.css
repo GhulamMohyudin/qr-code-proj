@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(204, 242, 248);
+    
+    font-family: 'Poppins', sans-serif;
+
+}
+p{
+    font-size :  12px;
+    font-weight: 600;
+    color: rgb(146, 145, 145);
+    width: 93%;
+    padding: 9px;
+    margin: 3px auto;
+}
+h1{
+    
+    margin: 9px auto;
+    width: 87%;
+    font-size :  15px;
+}
+.imgandcont{
+    
+    width: 16%;
+    /* display: inline-block; */
+    margin: 100px auto 100px auto;
+    
+    border-radius: 12px;
+    text-align: center;
+    background-color: aliceblue;
+}
+img{
+    
+    width: 89%;
+    border-radius: 12px;
+    /* display: inline-block; */
+    margin-top: 14px;
+}
+.attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
